@@ -1,0 +1,84 @@
+.navbar-inverse {
+    background-color: #0059b3;
+}
+.icon-bar {
+    color: black;
+}
+.jumbotron {
+    height: 400px;
+    background: rgba(0, 0,255, 0) url("../images/Jumbarn.jpg")
+        no-repeat center center;
+    background-size: cover; 
+    color: #FFF;
+    text-align: 
+        }
+ #jumbotron-wood {
+    height: 400px;
+    background: rgba(0, 0,255, 0) url("../images/1280px-Wooden_boards.jpg")
+        no-repeat center center;
+    background-size: cover; 
+    color: black;
+    text-align: 
+
+                }
+#jumbotron-stone {
+    height: 400px;
+    background: rgba(0, 0,255, 0) url("../images/stonewalltexturelg.jpg")
+        no-repeat center center ;
+    background-size: cover; 
+    color: black;
+    text-align: 
+        }
+        
+#jumbotron-textures {
+    height: 400px;
+    background: rgba(0, 0,255, 0) url("../images/corrugatedMetaltextlg.jpg")
+        no-repeat center center ;
+    background-size: cover; 
+    color: black;
+    text-align: 
+        }
+#jumbotron-elements {
+    height: 400px;
+    background: rgba(0, 0,255, 0) url("../images/lgBlueslider.jpg")
+        no-repeat center center ;
+    background-size: cover; 
+    color: black;
+    text-align: 
+        }
+
+.container-fluid { 
+    width: 100%;
+    height: auto;
+    background-size: cover;
+}
+
+/*adding padding to keep navbar from overlapping jumbotron*/
+/*body {
+    padding: 70px;
+} /*That just added space between the navbar and the jumbotron*/
+.col-1 {
+    background-color: crimson;
+    border: 1px solid #000;    
+}
+.col-2 {background-color: royalblue;
+        border: 1px solid #000;
+}
+
+.col-3 {background-color: darkseagreen;
+        border: 1px solid #000;
+}
+.col-4 {background-color: lemonchiffon;
+        border:1px solid #000;}
+
+.row {
+    margin: 25px 0;
+}
+/* Im changing the transparency of "background-color" below to zero from .3 for a sencond to see if that will get rid of the box or make it transparent. It worked!*/
+.jumbotron p {
+    background-color: rgba(255,0,0,0.0);
+    padding-left: 200px;
+    padding-right: 280px;
+    
+    
+}
